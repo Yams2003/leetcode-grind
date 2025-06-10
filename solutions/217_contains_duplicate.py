@@ -1,6 +1,5 @@
 from ast import List
 
-
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
         numbers = set()
